@@ -16,3 +16,5 @@ git checkout <branchName>
 git switch <branchName>
 
 git push origin <branchName>
+
+conflicts
